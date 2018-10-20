@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="register_fullname">Nombre Completo</string>
+    <string name="register_email">Correo Electrónico</string>
+    <string name="register_password">Contraseña</string>
+    <string name="register_firstname">Nombre de Usuario</string>
+    <string name="register_nota_tittle">Título</string>
+    <string name="register_nota_contenido">Contenido</string>
+    <string name="nota_favorito">Favorito</string>
+    <string name="nota_archivado">Archivar</string>
+    <string name="tittle_nota">Tittle</string>
+    <string name="contenido_nota">Contenido</string>
+</resources>
